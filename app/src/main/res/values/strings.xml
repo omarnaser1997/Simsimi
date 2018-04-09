@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simsimi</string>
+    <string name="simsimi_api">f81f48e6-62bc-43e3-92a0-0c1b5dde3e60</string>
+    <string name="enter_your_message">enter your message</string>
+</resources>
